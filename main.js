@@ -1,5 +1,9 @@
-test;
+test();
 
-function test(){
-    console.log('Test-Git 2')
+function test() {
+    console.log('Test-Gib');
+    console.log('Test-Gib');
+    console.log('Este proyecto es relacionado');
+    console.log('no funca');
+    console.log('no funca');
 }
