@@ -1,7 +1,7 @@
-logger();
+test();
 
-function logger() {
-    console.log('Test-Gib logger');
+function test() {
+    console.log('Test-Gib ayuda test');
     console.log('Este proyecto es relacionado');
     console.log('no funca');
 }
